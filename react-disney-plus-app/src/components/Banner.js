@@ -23,7 +23,6 @@ const Banner = () => {
         setMovie(movieDetail)
     }
 
-
     return (
         <div>Banner</div>
     )
