@@ -24,7 +24,7 @@ const Banner = () => {
     }
 
     return (
-        <div>Banner</div>
+        <div>Banners</div>
     )
 }
 
