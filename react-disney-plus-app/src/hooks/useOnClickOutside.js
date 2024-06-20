@@ -17,5 +17,5 @@ export default function useOnClickOutside(ref, handler) {
             document.removeEventListener("touchstart", listener);
         }
     }, [ref, handler])
-
+    // 오늘도 하긴 했다.
 }
